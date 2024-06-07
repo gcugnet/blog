@@ -1,0 +1,9 @@
+[submodule "hugo-legrec"]
+	path = hugo-legrec
+	url = https://github.com/legrec14/hugo-legrec.git
+[submodule "themes/--force"]
+	path = themes/--force
+	url = https://github.com/legrec14/hugo-legrec.git
+[submodule "themes/hugo-legrec"]
+	path = themes/hugo-legrec
+	url = https://github.com/legrec14/hugo-legrec.git
