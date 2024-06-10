@@ -2,7 +2,7 @@
 #                                   General                                    #
 # ---------------------------------------------------------------------------- #
 
-baseURL: https://github.com/legrec14.github.io/
+baseURL: https://legrec14.github.io/blog/
 title: Blog of legrec14
 theme: hugo-legrec
 
