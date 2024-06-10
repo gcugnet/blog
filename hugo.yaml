@@ -5,3 +5,26 @@
 baseURL: https://github.com/legrec14.github.io/
 title: Blog of legrec14
 theme: hugo-legrec
+
+# ---------------------------------------------------------------------------- #
+#                                   Languages                                  #
+# ---------------------------------------------------------------------------- #
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    contentDir: content/en
+    languageName: English
+    title: Blog of legrec14
+    languageCode: en-US
+    weight: 1
+    disabled: false
+
+  fr:
+    contentDir: content/fr
+    languageName: Français
+    title: Blog de legrec14
+    languageCode: fr-FR
+    weight: 2
+    disabled: false
